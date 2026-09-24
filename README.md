@@ -36,11 +36,8 @@ I'm currently training through the Digital Egypt Pioneers Initiative (DEPI) in t
 - Cloud deployment for AI models
 
 ## 🔗 Connect With Me
-[![LinkedIn](Abdulrahman Farouk | LinkedIn)](https://linkedin.com/in/Your-LinkedIn-URL)
-
-## 📈 GitHub Stats
-
- ![Farouk41 (Abdulrahman Farouk)](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-farouk-9b679a367/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Abdelrahman_Farouk-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-nine-blond-28.vercel.app/)
 
 Building strong foundations. Learning continuously.
 
